@@ -1,0 +1,145 @@
+* {
+  margin: 5px;
+  margin-top: 10px;
+}
+
+/*Login form style*/
+
+.login {
+  background-color: rgba(3, 3, 85, 0.873);
+  height: 45vw;
+  border-radius: 10px;
+  text-align: center;
+}
+.main {
+  padding-top: 5vw;
+  padding-bottom: 0px;
+  font-size: 2vw;
+  padding-left: 55px;
+  color: white;
+}
+.sub {
+  font-size: 1.2vw;
+  position: relative;
+  bottom: 10px;
+  padding-left: 55px;
+  color: white;
+}
+.login1 {
+  background-color: rgb(50, 50, 117);
+  height: 25vw;
+  width: 50vw;
+  margin-left: 25vw;
+  border-radius: 15px;
+}
+.user {
+  border-radius: 15px;
+  height: 4vw;
+  width: 27.8vw;
+  font-size: 1.5vw;
+  margin-top: 4vw;
+  background-color: rgb(66, 66, 131);
+  border-style: none;
+  color: white;
+  padding-left: 40px;
+  margin-left: -2.5vw;
+}
+.pass {
+  border-radius: 15px;
+  height: 4vw;
+  width: 27.8vw;
+  font-size: 1.5vw;
+  margin-top: 2vw;
+  background-color: rgb(66, 66, 131);
+  border-style: none;
+  color: white;
+  padding-left: 40px;
+  margin-left: -2.5vw;
+}
+.butt {
+  border-radius: 15px;
+  height: 4vw;
+  width: 30vw;
+  font-size: 1.5vw;
+  margin-top: 2vw;
+  background-color: yellow;
+  border-style: none;
+  color: rgb(9, 9, 47);
+}
+::placeholder {
+  color: white;
+}
+.id {
+  position: relative;
+  top: 7px;
+}
+
+/*Navbar style*/
+
+.link {
+  background-color: rgb(24, 24, 75);
+  border-radius: 10px;
+  height: 2.5vw;
+  margin-top: -1vw;
+  margin-bottom: -0.2vw;
+}
+.one,
+.two,
+.three {
+  color: white;
+  text-decoration: none;
+  margin-left: 150px;
+  font-size: 1vw;
+  position: relative;
+  top: 10px;
+}
+
+/*Registration form style*/
+
+.login2 {
+  background-color: rgb(50, 50, 117);
+  height: 34vw;
+  width: 50vw;
+  margin-left: 25vw;
+  border-radius: 15px;
+}
+.pas {
+  border-radius: 15px;
+  height: 2.8vw;
+  width: 30vw;
+  font-size: 1.5vw;
+  margin-top: 1vw;
+  background-color: rgb(66, 66, 131);
+  border-style: none;
+  color: white;
+  padding-left: 10px;
+}
+.but {
+  border-radius: 15px;
+  height: 2.8vw;
+  width: 30vw;
+  font-size: 1.5vw;
+  margin-top: 1vw;
+  background-color: yellow;
+  border-style: none;
+  color: rgb(9, 9, 47);
+}
+
+/*Dashboard style with table*/
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 8vw;
+  font-size: 1.5vw;
+  color: white;
+  background-color: rgb(50, 50, 117);
+}
+th,
+td {
+  width: 20vw;
+  height: 2.8vw;
+  background-color: rgb(66, 66, 131);
+}
